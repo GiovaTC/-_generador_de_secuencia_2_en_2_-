@@ -1,7 +1,9 @@
 # -_generador_de_secuencia_2_en_2_- :.
 # Proyecto Java 21 + IntelliJ IDEA + MySQL:
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/e8ef2cca-9b2f-4b87-98fe-7364f8804923" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/e8ef2cca-9b2f-4b87-98fe-7364f8804923" />
+
+<img width="2554" height="1040" alt="image" src="https://github.com/user-attachments/assets/174a7727-0345-47ae-9a6a-422e2025c0f2" />    
 
 ```
 
